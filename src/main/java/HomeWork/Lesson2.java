@@ -25,9 +25,9 @@ public class Lesson2 {
 
     public static void printThreeWordsV2()
     {
-        System.out.println("Orange"  );
-        System.out.println("Banana"  );
-        System.out.println("Apple"  );
+        System.out.println("Orange");
+        System.out.println("Banana");
+        System.out.println("Apple");
     }
 
 
