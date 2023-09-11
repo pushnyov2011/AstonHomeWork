@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a974c1d-9900-4e06-8015-51656e1e5faf" name="Changes" comment="урок 4">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L5_Task1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L5_Task1/Cats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L5_Task1/Dogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L5_Task1/ForTesTInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L5_Task1/Tarelka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L5_Task2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L5_Task2/FigureInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L5_Task2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L5_Task2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L5_Task2/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_4/Sotrudnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_4/Sotrudnik.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lesson_3" />
+        <entry key="$PROJECT_DIR$" value="Lesson_4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +61,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Sotrudnik">
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Dogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L5_Task1.Dogs" />
+      <module name="AstonHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L5_Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sotrudnik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_4.Sotrudnik" />
       <module name="AstonHomeWork" />
@@ -78,32 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_3.Task5" />
-      <module name="AstonHomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_3.Task8" />
-      <module name="AstonHomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_3.Task9" />
       <module name="AstonHomeWork" />
@@ -117,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L5_Task2.Test" />
+      <module name="AstonHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L5_Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Dogs" />
         <item itemvalue="Application.Sotrudnik" />
         <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Task10" />
-        <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task5" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693897457403</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="урок 4">
+      <created>1693898112641</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693898112641</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,5 +227,20 @@
     <MESSAGE value="урок 3" />
     <MESSAGE value="урок 4" />
     <option name="LAST_COMMIT_MESSAGE" value="урок 4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/L5_Task2/Test.java</url>
+          <line>3</line>
+          <properties class="L5_Task2.Test" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
